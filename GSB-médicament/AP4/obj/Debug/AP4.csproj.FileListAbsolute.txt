@@ -1,0 +1,23 @@
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\Documents\BLOC 1 SG\programme\AP4\AP4\bin\Debug\AP4.exe.config
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\Documents\BLOC 1 SG\programme\AP4\AP4\bin\Debug\AP4.exe
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\Documents\BLOC 1 SG\programme\AP4\AP4\bin\Debug\AP4.pdb
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\Documents\BLOC 1 SG\programme\AP4\AP4\obj\Debug\AP4.csproj.AssemblyReference.cache
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\Documents\BLOC 1 SG\programme\AP4\AP4\obj\Debug\AP4.csproj.SuggestedBindingRedirects.cache
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\Documents\BLOC 1 SG\programme\AP4\AP4\obj\Debug\AP4.csproj.CoreCompileInputs.cache
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\Documents\BLOC 1 SG\programme\AP4\AP4\obj\Debug\AP4.exe
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\Documents\BLOC 1 SG\programme\AP4\AP4\obj\Debug\AP4.pdb
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\AP4\AP4\bin\Debug\AP4.exe.config
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\AP4\AP4\bin\Debug\AP4.exe
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\AP4\AP4\bin\Debug\AP4.pdb
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\AP4\AP4\obj\Debug\AP4.csproj.AssemblyReference.cache
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\AP4\AP4\obj\Debug\AP4.csproj.SuggestedBindingRedirects.cache
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\AP4\AP4\obj\Debug\AP4.csproj.CoreCompileInputs.cache
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\AP4\AP4\obj\Debug\AP4.exe
+C:\Users\grasseta\OneDrive - Établissement Saint-Adjutor\AP4\AP4\obj\Debug\AP4.pdb
+C:\Users\antho\Downloads\AP4_GRASSET_Anthony\AP4_GRASSET_Anthony\AP4\bin\Debug\AP4.exe.config
+C:\Users\antho\Downloads\AP4_GRASSET_Anthony\AP4_GRASSET_Anthony\AP4\bin\Debug\AP4.exe
+C:\Users\antho\Downloads\AP4_GRASSET_Anthony\AP4_GRASSET_Anthony\AP4\bin\Debug\AP4.pdb
+C:\Users\antho\Downloads\AP4_GRASSET_Anthony\AP4_GRASSET_Anthony\AP4\obj\Debug\AP4.csproj.AssemblyReference.cache
+C:\Users\antho\Downloads\AP4_GRASSET_Anthony\AP4_GRASSET_Anthony\AP4\obj\Debug\AP4.csproj.CoreCompileInputs.cache
+C:\Users\antho\Downloads\AP4_GRASSET_Anthony\AP4_GRASSET_Anthony\AP4\obj\Debug\AP4.exe
+C:\Users\antho\Downloads\AP4_GRASSET_Anthony\AP4_GRASSET_Anthony\AP4\obj\Debug\AP4.pdb
